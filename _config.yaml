@@ -4,7 +4,7 @@ subtitle: Unlocking the Mathematical Foundations of AI
 description: Welcome to MOFAI, a platform dedicated to exploring the critical mathematical principles that drive the field of Artificial Intelligence. From linear algebra to probability theory, our mission is to bridge the gap between theory and application, helping researchers, students, and enthusiasts deepen their understanding of AI's mathematical underpinnings. Dive into in-depth resources, research articles, and discussions designed to equip you with the knowledge needed to excel in the rapidly evolving AI landscape.
 header: images/background.jpg
 footer: images/background.jpg
-proofer: false
+# proofer: false
 
 # site social media and other links
 links:
