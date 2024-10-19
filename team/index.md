@@ -1,8 +1,8 @@
 ---
-title: Team
+title: About us 
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: "About us
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
