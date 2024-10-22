@@ -13,7 +13,7 @@ We explore mathematical principles, ranging from algebra to calculus, probabilit
 
 {% include section.html %}
 
-/* ## Highlights
+<!-- ## Highlights
 
 
 {% capture text %}
@@ -62,4 +62,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="team"
   title="Our Team"
   text=text
-%}*/
+%}-->
