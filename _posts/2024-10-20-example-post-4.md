@@ -1,5 +1,6 @@
 ---
 title: Example post 4
+image: images/share.jpg
 author: mahshid-MB
 tags:
   - ml
