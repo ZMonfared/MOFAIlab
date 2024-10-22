@@ -1,6 +1,6 @@
 ---
 title: Example post 33
-image: images/photo.jpg
+image: images/share.jpg
 author: john-doem
 tags: biology, medicine
 ---
