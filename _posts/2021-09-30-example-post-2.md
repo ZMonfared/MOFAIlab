@@ -1,6 +1,6 @@
 ---
 title: Example post 2
-icon: fa-phone
+image: images/share.jpg
 author: jane-smith
 ---
 
