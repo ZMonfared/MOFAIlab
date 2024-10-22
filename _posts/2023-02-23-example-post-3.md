@@ -1,7 +1,7 @@
 ---
-title: Example post 3
+title: Example post 33
 image: images/photo.jpg
-author: john-doe
+author: john-doem
 tags: biology, medicine
 ---
 
