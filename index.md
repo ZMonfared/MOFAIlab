@@ -13,6 +13,11 @@ We explore mathematical principles, ranging from algebra to calculus, probabilit
 
 {% include section.html %}
 
+## Latest updates
+
+
+{% include list.html data="posts" component="post-excerpt" %}
+
 <!-- ## Highlights
 
 
